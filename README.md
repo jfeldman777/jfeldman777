@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jfeldman777
 - 👀 I’m interested in new postion as a Senior Python Developer
-- 🌱 I’m currently learning everithing I do not know yet
-- 💞️ I’m looking to collaborate on better future for all good people
+- 🌱 I’m currently learning everything I do not know yet
+- 💞️ I’m looking for new project
 - 📫 How to reach me ...mailto: jfeldman777@gmail.com
 
 <!---
